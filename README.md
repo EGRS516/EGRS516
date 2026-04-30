@@ -1,5 +1,5 @@
 
-# Hola, soy Erick Romero 🚀
+# Hola, soy Erick Romero 
 
 Desarrollador Backend con un enfoque riguroso en la eficiencia y escalabilidad de sistemas. Mi formación técnica en Telemática me permite no solo escribir código de alto nivel, sino optimizar la comunicación entre servicios y asegurar despliegues robustos.
 
