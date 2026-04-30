@@ -25,7 +25,7 @@ Experto en el ecosistema Node.js y Python, con especial interés en arquitectura
 
 **Frameworks & APIs**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,django,laravel,rest,graphql" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nestjs,django,laravel,graphql" alt="Frameworks" />
 </p>
 
 **Bases de Datos & Caché**  
